@@ -46,4 +46,4 @@ These are technologies I have knowledge or experience with, but they are not par
 
 To view my personal projects, open-source contributions, and Data Structures & Algorithms (C++) practice, please visit my personal GitHub account:
 
-🔗 [github.com/notkirtann](https://github.com/notkirtann)n
+🔗 [github.com/notkirtann](https://github.com/notkirtann)
